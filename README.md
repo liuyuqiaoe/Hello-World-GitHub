@@ -1,5 +1,4 @@
 # Hello-World-GitHub
-This is a hello world project for usage of Github
-Hello, I'm LiuYuqiao at CUHK!
+Hello, I'm LiuYuqiao !
 My student Number is 1155191586.
 
